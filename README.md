@@ -4,6 +4,7 @@
 - Tensorflow
 - Pandas
 - Matplotlib
+- Numpy
 
 ## 1. Stock Prediction (NVDA)
 Practice using Tensorflow to create a Recurrent Neural Network against a timeseries of historical stock data<br>
