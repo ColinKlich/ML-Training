@@ -14,5 +14,6 @@ Practice using Tensorflow to create a Recurrent Neural Network against a timeser
 <a href='https://www.geeksforgeeks.org/stock-price-prediction-project-using-tensorflow/?ref=lbp'>Resources Used</a>
 
 ## 2. Restaurant Tip Prediction
-Practice using Regression models (Linear, XGBRegression, RandomForrest, AdaBoost) to predict relations among variables to determine tip amount.
+Practice using Regression models (Linear, XGBRegression, RandomForrest, AdaBoost) to predict relations among variables to determine tip amount.<br>
+<br>
 <a href='https://www.geeksforgeeks.org/waiters-tip-prediction-using-machine-learning/?ref=oin_asr10'>Resources Used</a>
